@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.js": "./static/js/main.f106200a.js",
+    "static/media/pinkka.jpg": "./static/media/pinkka.3a5a23221731ec67da19.jpg",
+    "index.html": "./index.html",
+    "main.f106200a.js.map": "./static/js/main.f106200a.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.f106200a.js"
+  ]
+}
